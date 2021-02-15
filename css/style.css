@@ -1,3 +1,15 @@
 h1 {
-    color: burlywood
+    color: burlywood;
+    text-align: center;
+    
 }
+
+h2 {
+    color:blanchedalmond;
+    text-align:left;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
